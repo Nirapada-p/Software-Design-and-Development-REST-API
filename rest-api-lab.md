@@ -381,6 +381,8 @@ npm run dev
   ### บันทึกผลการทดลอง
   ![แทรกรูปการตั้งค่า Postman](path/to/your/image.png)
   ![image](https://github.com/user-attachments/assets/9c31988c-6a47-4b29-a65f-e587131a580a)
+  ![image](https://github.com/user-attachments/assets/39e14000-3bf7-413a-a6b0-11feae14c9e1)
+
 
 
 1. การทดสอบ Request:
