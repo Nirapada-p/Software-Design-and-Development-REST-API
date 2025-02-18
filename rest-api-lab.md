@@ -395,6 +395,8 @@ npm run dev
    ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
   ![image](https://github.com/user-attachments/assets/6e67d262-38ce-47eb-a54f-e4895b428ec3)
+  ![image](https://github.com/user-attachments/assets/2e78d72d-74c6-4168-ba07-f1dcdc9e0d2f)
+
 
   ทดสอบเพิ่มข้อมูลการจองอีก 2 ครั้ง โดยเปลี่ยนแปลงข้อมูลในการจองเพื่อให้มีความแตกต่างกันในแต่ละครั้ง
   
