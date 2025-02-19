@@ -393,7 +393,6 @@ npm run dev
    - ควรเห็น Status Code 201 Created
   
    ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
   ![image](https://github.com/user-attachments/assets/6e67d262-38ce-47eb-a54f-e4895b428ec3)
   ![image](https://github.com/user-attachments/assets/2e78d72d-74c6-4168-ba07-f1dcdc9e0d2f)
 
@@ -441,7 +440,6 @@ npm run dev
    - URL: http://localhost:3000/api/bookings/1
   
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
   ![image](https://github.com/user-attachments/assets/1b9ea03e-21d1-47d1-bb4b-6e9b16ad93c3)
 
 
@@ -717,7 +715,6 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    }
    ```
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
   ![image](https://github.com/user-attachments/assets/1bfd7bd9-a7fe-4c2e-9e57-25168b098675)
   ![image](https://github.com/user-attachments/assets/1c3745ac-9ac4-4e12-b3ad-381eb5b01da4)
 
